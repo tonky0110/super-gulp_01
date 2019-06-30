@@ -29,3 +29,11 @@ gulp image
 4.0
 scss
 yarn add -D node-sass gulp-sass
+
+
+4.1 
+gulp-autoprefixer
+scss를 구형 브라우져가 알아들을 수 있도록 prefixer를 붙여줌(자동)
+
+gulp-csso
+css의 공백 제거(minify)
