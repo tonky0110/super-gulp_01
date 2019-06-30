@@ -22,3 +22,10 @@ yarn add -D gulp-webserver
 
 2.1 
 gulp watch
+
+3.0
+gulp image
+
+4.0
+scss
+yarn add -D node-sass gulp-sass
