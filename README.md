@@ -19,3 +19,6 @@ yarn global add gulp-cli
 
 2.0
 yarn add -D gulp-webserver
+
+2.1 
+gulp watch
